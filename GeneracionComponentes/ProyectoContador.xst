@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/xst"
+elaborate
+-ifn ProyectoContador.prj
+-ifmt mixed

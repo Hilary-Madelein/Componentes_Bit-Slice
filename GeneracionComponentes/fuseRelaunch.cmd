@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/TB_ProyectoContador_isim_beh.exe" -prj "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/TB_ProyectoContador_beh.prj" "work.TB_ProyectoContador" 

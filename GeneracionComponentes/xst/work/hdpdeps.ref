@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/Contador.vhd" 2022/07/22.22:12:27 P.20131013
+EN work/Contador 1658546964 \
+      FL "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/Contador.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Contador/Behavioral 1658546965 \
+      FL "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/Contador.vhd" \
+      EN work/Contador 1658546964
+FL "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/ProyectoContador.vhd" 2022/07/22.22:29:16 P.20131013
+EN work/ProyectoContador 1658546966 \
+      FL "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/ProyectoContador.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ProyectoContador/Behavioral 1658546967 \
+      FL "C:/Users/Hilary Calva Camacho/Desktop/PROYECTOS VHDL/GeneracionComponentes/ProyectoContador.vhd" \
+      EN work/ProyectoContador 1658546966 CP Contador

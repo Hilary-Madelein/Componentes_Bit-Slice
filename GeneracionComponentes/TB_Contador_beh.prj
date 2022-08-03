@@ -1,0 +1,2 @@
+vhdl work "Contador.vhd"
+vhdl work "TB_Contador.vhd"
