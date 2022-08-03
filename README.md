@@ -1,0 +1,1 @@
+# Componentes_Bit-Slice
